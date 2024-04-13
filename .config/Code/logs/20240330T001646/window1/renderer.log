@@ -1,0 +1,14 @@
+2024-03-30 00:16:47.291 [info] Started local extension host with pid 1432.
+2024-03-30 00:16:50.016 [info] [perf] Render performance baseline is 27ms
+2024-03-30 00:21:12.048 [error] [File Watcher (parcel)] Unexpected error: 入力/出力エラーです (EUNKNOWN) (path: /mnt/c/Users/ryhor)
+2024-03-30 00:21:12.050 [error] [File Watcher (universal)] restarting watcher after error: 入力/出力エラーです
+2024-03-30 00:25:28.448 [error] [File Watcher (parcel)] Unexpected error: 入力/出力エラーです (EUNKNOWN) (path: /mnt/c/Users/ryhor)
+2024-03-30 00:25:28.450 [error] [File Watcher (universal)] restarting watcher after error: 入力/出力エラーです
+2024-03-30 00:29:33.068 [error] [File Watcher (parcel)] Unexpected error: 入力/出力エラーです (EUNKNOWN) (path: /mnt/c/Users/ryhor)
+2024-03-30 00:29:33.088 [error] [File Watcher (universal)] restarting watcher after error: 入力/出力エラーです
+2024-03-30 00:33:37.696 [error] [File Watcher (parcel)] Unexpected error: 入力/出力エラーです (EUNKNOWN) (path: /mnt/c/Users/ryhor)
+2024-03-30 00:33:37.716 [error] [File Watcher (universal)] restarting watcher after error: 入力/出力エラーです
+2024-03-30 00:37:52.665 [error] [File Watcher (parcel)] Unexpected error: 入力/出力エラーです (EUNKNOWN) (path: /mnt/c/Users/ryhor)
+2024-03-30 00:37:52.685 [error] [File Watcher (universal)] restarting watcher after error: 入力/出力エラーです
+2024-03-30 00:42:17.540 [error] [File Watcher (parcel)] Unexpected error: 入力/出力エラーです (EUNKNOWN) (path: /mnt/c/Users/ryhor)
+2024-03-30 00:42:17.563 [error] [File Watcher (universal)] gave up attempting to restart watcher after error: 入力/出力エラーです

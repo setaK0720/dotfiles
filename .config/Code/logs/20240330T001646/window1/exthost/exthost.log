@@ -1,0 +1,9 @@
+2024-03-30 00:16:47.595 [info] Extension host with pid 1432 started
+2024-03-30 00:16:47.595 [info] Skipping acquiring lock for /home/rimoto/.config/Code/User/workspaceStorage/125b20c023ab3600de07fadf8b93cb5c.
+2024-03-30 00:16:47.728 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-03-30 00:16:47.735 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-30 00:16:47.758 [info] Eager extensions activated
+2024-03-30 00:16:47.814 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-30 00:16:47.817 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-30 00:16:51.064 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-03-30 00:35:39.518 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'

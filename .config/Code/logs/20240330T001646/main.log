@@ -1,0 +1,485 @@
+2024-03-30 00:16:46.334 [info] update#setState idle
+2024-03-30 00:17:16.340 [info] update#setState checking for updates
+2024-03-30 00:17:16.480 [info] update#setState idle
+2024-03-30 00:21:12.051 [warning] [UtilityProcessWorker]: createWorker() found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2024-03-30 00:29:33.089 [warning] [UtilityProcessWorker]: createWorker() found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2024-03-30 00:37:52.686 [warning] [UtilityProcessWorker]: createWorker() found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2024-03-30 00:37:52.735 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 5898]: crashed with code 15 and reason 'killed'
+2024-03-30 01:17:16.342 [info] update#setState checking for updates
+2024-03-30 01:17:16.740 [info] update#setState idle
+2024-03-30 02:17:16.344 [info] update#setState checking for updates
+2024-03-30 02:17:16.955 [info] update#setState idle
+2024-03-30 03:17:16.346 [info] update#setState checking for updates
+2024-03-30 03:17:16.749 [info] update#setState idle
+2024-03-30 04:17:16.351 [info] update#setState checking for updates
+2024-03-30 04:17:16.708 [info] update#setState idle
+2024-03-30 05:17:16.356 [info] update#setState checking for updates
+2024-03-30 05:17:16.845 [info] update#setState idle
+2024-03-30 06:17:16.360 [info] update#setState checking for updates
+2024-03-30 06:17:16.865 [info] update#setState idle
+2024-03-30 07:17:16.364 [info] update#setState checking for updates
+2024-03-30 07:17:16.703 [info] update#setState idle
+2024-03-30 08:17:16.368 [info] update#setState checking for updates
+2024-03-30 08:17:16.896 [info] update#setState idle
+2024-03-30 09:17:16.372 [info] update#setState checking for updates
+2024-03-30 09:17:16.824 [info] update#setState idle
+2024-03-30 10:17:16.376 [info] update#setState checking for updates
+2024-03-30 10:17:16.855 [info] update#setState idle
+2024-03-30 11:17:16.379 [info] update#setState checking for updates
+2024-03-30 11:17:42.460 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-30 11:17:42.460 [info] update#setState idle
+2024-03-30 12:17:16.383 [info] update#setState checking for updates
+2024-03-30 12:17:42.470 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-30 12:17:42.471 [info] update#setState idle
+2024-03-30 13:17:16.386 [info] update#setState checking for updates
+2024-03-30 13:17:42.471 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-30 13:17:42.471 [info] update#setState idle
+2024-03-30 14:17:16.388 [info] update#setState checking for updates
+2024-03-30 14:17:42.476 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-30 14:17:42.477 [info] update#setState idle
+2024-03-30 15:17:16.391 [info] update#setState checking for updates
+2024-03-30 15:17:42.479 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-30 15:17:42.480 [info] update#setState idle
+2024-03-30 16:17:16.393 [info] update#setState checking for updates
+2024-03-30 16:17:42.482 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-30 16:17:42.482 [info] update#setState idle
+2024-03-30 17:17:16.397 [info] update#setState checking for updates
+2024-03-30 17:17:42.486 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-30 17:17:42.487 [info] update#setState idle
+2024-03-30 18:17:16.400 [info] update#setState checking for updates
+2024-03-30 18:17:42.487 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-30 18:17:42.487 [info] update#setState idle
+2024-03-30 19:17:16.401 [info] update#setState checking for updates
+2024-03-30 19:17:42.489 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-30 19:17:42.489 [info] update#setState idle
+2024-03-30 20:17:16.403 [info] update#setState checking for updates
+2024-03-30 20:17:42.491 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-30 20:17:42.491 [info] update#setState idle
+2024-03-30 21:17:16.406 [info] update#setState checking for updates
+2024-03-30 21:17:42.493 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-30 21:17:42.493 [info] update#setState idle
+2024-03-30 22:17:16.407 [info] update#setState checking for updates
+2024-03-30 22:17:42.493 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-30 22:17:42.493 [info] update#setState idle
+2024-03-30 23:17:16.408 [info] update#setState checking for updates
+2024-03-30 23:17:42.496 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-30 23:17:42.496 [info] update#setState idle
+2024-03-31 00:17:16.409 [info] update#setState checking for updates
+2024-03-31 00:17:42.497 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-31 00:17:42.497 [info] update#setState idle
+2024-03-31 01:17:16.410 [info] update#setState checking for updates
+2024-03-31 01:17:42.498 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-31 01:17:42.498 [info] update#setState idle
+2024-03-31 02:17:16.412 [info] update#setState checking for updates
+2024-03-31 02:17:42.500 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-31 02:17:42.500 [info] update#setState idle
+2024-03-31 03:17:16.413 [info] update#setState checking for updates
+2024-03-31 03:17:42.501 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-31 03:17:42.501 [info] update#setState idle
+2024-03-31 04:17:16.414 [info] update#setState checking for updates
+2024-03-31 04:17:42.502 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-31 04:17:42.502 [info] update#setState idle
+2024-03-31 05:17:16.415 [info] update#setState checking for updates
+2024-03-31 05:17:42.501 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-31 05:17:42.501 [info] update#setState idle
+2024-03-31 06:17:16.420 [info] update#setState checking for updates
+2024-03-31 06:17:42.508 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-31 06:17:42.508 [info] update#setState idle
+2024-03-31 07:17:16.424 [info] update#setState checking for updates
+2024-03-31 07:17:42.511 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-31 07:17:42.511 [info] update#setState idle
+2024-03-31 08:17:16.429 [info] update#setState checking for updates
+2024-03-31 08:17:42.517 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-31 08:17:42.517 [info] update#setState idle
+2024-03-31 09:17:16.433 [info] update#setState checking for updates
+2024-03-31 09:17:42.521 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-31 09:17:42.521 [info] update#setState idle
+2024-03-31 10:17:16.437 [info] update#setState checking for updates
+2024-03-31 10:17:42.525 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-31 10:17:42.525 [info] update#setState idle
+2024-03-31 11:17:16.441 [info] update#setState checking for updates
+2024-03-31 11:17:42.528 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-31 11:17:42.529 [info] update#setState idle
+2024-03-31 12:17:16.444 [info] update#setState checking for updates
+2024-03-31 12:17:42.532 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-31 12:17:42.532 [info] update#setState idle
+2024-03-31 13:17:16.448 [info] update#setState checking for updates
+2024-03-31 13:17:42.536 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-31 13:17:42.536 [info] update#setState idle
+2024-03-31 14:17:16.451 [info] update#setState checking for updates
+2024-03-31 14:17:42.537 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-31 14:17:42.537 [info] update#setState idle
+2024-03-31 15:17:16.454 [info] update#setState checking for updates
+2024-03-31 15:17:42.542 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-31 15:17:42.542 [info] update#setState idle
+2024-03-31 16:17:16.456 [info] update#setState checking for updates
+2024-03-31 16:17:42.544 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-31 16:17:42.544 [info] update#setState idle
+2024-03-31 17:17:16.459 [info] update#setState checking for updates
+2024-03-31 17:17:42.546 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-31 17:17:42.546 [info] update#setState idle
+2024-03-31 18:17:16.461 [info] update#setState checking for updates
+2024-03-31 18:17:42.549 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-31 18:17:42.549 [info] update#setState idle
+2024-03-31 19:17:16.463 [info] update#setState checking for updates
+2024-03-31 19:17:42.551 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-31 19:17:42.551 [info] update#setState idle
+2024-03-31 20:17:16.465 [info] update#setState checking for updates
+2024-03-31 20:17:42.553 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-03-31 20:17:42.553 [info] update#setState idle
+2024-03-31 21:17:16.467 [info] update#setState checking for updates
+2024-03-31 21:17:16.800 [info] update#setState idle
+2024-03-31 22:17:16.469 [info] update#setState checking for updates
+2024-03-31 22:17:16.747 [info] update#setState idle
+2024-03-31 23:17:16.473 [info] update#setState checking for updates
+2024-03-31 23:17:17.004 [info] update#setState idle
+2024-04-01 00:17:16.479 [info] update#setState checking for updates
+2024-04-01 00:17:17.050 [info] update#setState idle
+2024-04-01 01:17:16.485 [info] update#setState checking for updates
+2024-04-01 01:17:16.976 [info] update#setState idle
+2024-04-01 02:17:16.490 [info] update#setState checking for updates
+2024-04-01 02:17:16.911 [info] update#setState idle
+2024-04-01 03:17:16.492 [info] update#setState checking for updates
+2024-04-01 03:17:16.868 [info] update#setState idle
+2024-04-01 04:17:16.493 [info] update#setState checking for updates
+2024-04-01 04:17:17.174 [info] update#setState idle
+2024-04-01 05:17:16.494 [info] update#setState checking for updates
+2024-04-01 05:17:17.025 [info] update#setState idle
+2024-04-01 06:17:16.495 [info] update#setState checking for updates
+2024-04-01 06:17:17.125 [info] update#setState idle
+2024-04-01 07:17:16.499 [info] update#setState checking for updates
+2024-04-01 07:17:17.036 [info] update#setState idle
+2024-04-01 08:17:16.505 [info] update#setState checking for updates
+2024-04-01 08:17:36.541 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-01 08:17:36.541 [info] update#setState idle
+2024-04-01 09:17:16.510 [info] update#setState checking for updates
+2024-04-01 09:17:36.541 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-01 09:17:36.541 [info] update#setState idle
+2024-04-01 10:17:16.514 [info] update#setState checking for updates
+2024-04-01 10:17:36.541 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-01 10:17:36.541 [info] update#setState idle
+2024-04-01 11:17:16.517 [info] update#setState checking for updates
+2024-04-01 11:17:36.557 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-01 11:17:36.557 [info] update#setState idle
+2024-04-01 12:17:16.521 [info] update#setState checking for updates
+2024-04-01 12:17:36.556 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-01 12:17:36.556 [info] update#setState idle
+2024-04-01 13:17:16.526 [info] update#setState checking for updates
+2024-04-01 13:17:36.558 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-01 13:17:36.558 [info] update#setState idle
+2024-04-01 14:17:16.530 [info] update#setState checking for updates
+2024-04-01 14:17:36.556 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-01 14:17:36.556 [info] update#setState idle
+2024-04-01 15:17:16.533 [info] update#setState checking for updates
+2024-04-01 15:17:36.571 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-01 15:17:36.572 [info] update#setState idle
+2024-04-01 16:17:16.536 [info] update#setState checking for updates
+2024-04-01 16:17:36.571 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-01 16:17:36.571 [info] update#setState idle
+2024-04-01 17:17:16.539 [info] update#setState checking for updates
+2024-04-01 17:17:42.627 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-01 17:17:42.627 [info] update#setState idle
+2024-04-01 18:17:16.542 [info] update#setState checking for updates
+2024-04-01 18:17:42.631 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-01 18:17:42.631 [info] update#setState idle
+2024-04-01 19:17:16.546 [info] update#setState checking for updates
+2024-04-01 19:17:42.633 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-01 19:17:42.633 [info] update#setState idle
+2024-04-01 20:17:16.548 [info] update#setState checking for updates
+2024-04-01 20:17:16.876 [info] update#setState idle
+2024-04-01 21:17:16.553 [info] update#setState checking for updates
+2024-04-01 21:17:16.909 [info] update#setState idle
+2024-04-01 22:17:16.561 [info] update#setState checking for updates
+2024-04-01 22:17:16.967 [info] update#setState idle
+2024-04-01 23:17:16.567 [info] update#setState checking for updates
+2024-04-01 23:17:16.942 [info] update#setState idle
+2024-04-02 00:17:16.573 [info] update#setState checking for updates
+2024-04-02 00:17:16.892 [info] update#setState idle
+2024-04-02 01:17:16.576 [info] update#setState checking for updates
+2024-04-02 01:17:16.846 [info] update#setState idle
+2024-04-02 02:17:16.577 [info] update#setState checking for updates
+2024-04-02 02:17:16.862 [info] update#setState idle
+2024-04-02 03:17:16.578 [info] update#setState checking for updates
+2024-04-02 03:17:16.867 [info] update#setState idle
+2024-04-02 04:17:16.579 [info] update#setState checking for updates
+2024-04-02 04:17:42.670 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-02 04:17:42.671 [info] update#setState idle
+2024-04-02 05:17:16.580 [info] update#setState checking for updates
+2024-04-02 05:17:42.669 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-02 05:17:42.669 [info] update#setState idle
+2024-04-02 06:17:16.582 [info] update#setState checking for updates
+2024-04-02 06:17:42.670 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-02 06:17:42.670 [info] update#setState idle
+2024-04-02 07:17:16.584 [info] update#setState checking for updates
+2024-04-02 07:17:16.996 [info] update#setState idle
+2024-04-02 08:17:16.585 [info] update#setState checking for updates
+2024-04-02 08:17:42.674 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-02 08:17:42.674 [info] update#setState idle
+2024-04-02 09:17:16.589 [info] update#setState checking for updates
+2024-04-02 09:17:42.676 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-02 09:17:42.676 [info] update#setState idle
+2024-04-02 10:17:16.593 [info] update#setState checking for updates
+2024-04-02 10:17:42.681 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-02 10:17:42.681 [info] update#setState idle
+2024-04-02 11:17:16.597 [info] update#setState checking for updates
+2024-04-02 11:17:42.684 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-02 11:17:42.685 [info] update#setState idle
+2024-04-02 12:17:16.601 [info] update#setState checking for updates
+2024-04-02 12:17:42.689 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-02 12:17:42.689 [info] update#setState idle
+2024-04-02 13:17:16.606 [info] update#setState checking for updates
+2024-04-02 13:17:42.694 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-02 13:17:42.694 [info] update#setState idle
+2024-04-02 14:17:16.610 [info] update#setState checking for updates
+2024-04-02 14:17:42.698 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-02 14:17:42.698 [info] update#setState idle
+2024-04-02 15:17:16.613 [info] update#setState checking for updates
+2024-04-02 15:17:42.701 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-02 15:17:42.701 [info] update#setState idle
+2024-04-02 16:17:16.617 [info] update#setState checking for updates
+2024-04-02 16:17:42.705 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-02 16:17:42.705 [info] update#setState idle
+2024-04-02 17:17:16.620 [info] update#setState checking for updates
+2024-04-02 17:17:42.708 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-02 17:17:42.708 [info] update#setState idle
+2024-04-02 18:17:16.623 [info] update#setState checking for updates
+2024-04-02 18:17:42.710 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-02 18:17:42.710 [info] update#setState idle
+2024-04-02 19:17:16.626 [info] update#setState checking for updates
+2024-04-02 19:17:42.709 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-02 19:17:42.709 [info] update#setState idle
+2024-04-02 20:17:16.628 [info] update#setState checking for updates
+2024-04-02 20:17:42.716 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:110219)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-04-02 20:17:42.716 [info] update#setState idle
+2024-04-02 21:17:16.633 [info] update#setState checking for updates
+2024-04-02 21:17:17.025 [info] update#setState idle
+2024-04-02 22:17:16.639 [info] update#setState checking for updates
+2024-04-02 22:17:17.029 [info] update#setState idle
+2024-04-02 23:17:16.645 [info] update#setState checking for updates
+2024-04-02 23:17:16.913 [info] update#setState idle
+2024-04-03 00:17:16.654 [info] update#setState checking for updates
+2024-04-03 00:17:16.970 [info] update#setState idle
+2024-04-03 01:17:16.660 [info] update#setState checking for updates
+2024-04-03 01:17:16.929 [info] update#setState idle
+2024-04-03 02:17:16.663 [info] update#setState checking for updates
+2024-04-03 02:17:16.950 [info] update#setState idle
+2024-04-03 03:17:16.665 [info] update#setState checking for updates
+2024-04-03 03:17:17.103 [info] update#setState idle
+2024-04-03 04:17:16.667 [info] update#setState checking for updates
+2024-04-03 04:17:16.954 [info] update#setState idle
+2024-04-03 05:17:16.668 [info] update#setState checking for updates
+2024-04-03 05:17:17.045 [info] update#setState idle
+2024-04-03 06:17:16.670 [info] update#setState checking for updates
+2024-04-03 06:17:17.010 [info] update#setState idle
+2024-04-03 07:17:16.671 [info] update#setState checking for updates
+2024-04-03 07:17:16.905 [info] update#setState idle
+2024-04-03 08:17:16.672 [info] update#setState checking for updates
+2024-04-03 08:17:16.973 [info] update#setState idle
+2024-04-03 09:17:16.675 [info] update#setState checking for updates
+2024-04-03 09:17:16.950 [info] update#setState idle
+2024-04-03 10:17:16.679 [info] update#setState checking for updates
+2024-04-03 10:17:16.998 [info] update#setState idle
+2024-04-03 11:17:16.684 [info] update#setState checking for updates
+2024-04-03 11:17:16.977 [info] update#setState idle
+2024-04-03 12:17:16.689 [info] update#setState checking for updates
+2024-04-03 12:17:16.999 [info] update#setState idle
+2024-04-03 13:17:16.694 [info] update#setState checking for updates
+2024-04-03 13:17:16.944 [info] update#setState idle
+2024-04-03 14:17:16.699 [info] update#setState checking for updates
+2024-04-03 14:17:16.973 [info] update#setState idle
+2024-04-03 15:17:16.701 [info] update#setState checking for updates
+2024-04-03 15:17:16.976 [info] update#setState idle
+2024-04-03 16:17:16.706 [info] update#setState checking for updates
+2024-04-03 16:17:16.991 [info] update#setState idle
+2024-04-03 17:17:16.710 [info] update#setState checking for updates
+2024-04-03 17:17:17.006 [info] update#setState idle
+2024-04-03 18:17:16.713 [info] update#setState checking for updates
+2024-04-03 18:17:17.079 [info] update#setState idle
+2024-04-03 19:17:16.716 [info] update#setState checking for updates
+2024-04-03 19:17:17.082 [info] update#setState idle
+2024-04-03 20:17:16.720 [info] update#setState checking for updates
+2024-04-03 20:17:16.986 [info] update#setState idle
+2024-04-03 21:17:16.726 [info] update#setState checking for updates
+2024-04-03 21:17:17.043 [info] update#setState idle
+2024-04-03 22:17:16.732 [info] update#setState checking for updates
+2024-04-03 22:17:17.068 [info] update#setState idle
+2024-04-03 23:17:16.739 [info] update#setState checking for updates
+2024-04-03 23:17:17.160 [info] update#setState idle
+2024-04-04 00:17:16.748 [info] update#setState checking for updates
+2024-04-04 00:17:17.143 [info] update#setState idle
+2024-04-04 01:17:16.756 [info] update#setState checking for updates
+2024-04-04 01:17:17.065 [info] update#setState idle
+2024-04-04 02:17:16.761 [info] update#setState checking for updates
+2024-04-04 02:17:17.117 [info] update#setState idle
+2024-04-04 03:17:16.764 [info] update#setState checking for updates
+2024-04-04 03:17:17.155 [info] update#setState idle
+2024-04-04 04:17:16.765 [info] update#setState checking for updates
+2024-04-04 04:17:17.136 [info] update#setState idle
+2024-04-04 05:17:16.767 [info] update#setState checking for updates
+2024-04-04 05:17:17.103 [info] update#setState idle
+2024-04-04 06:17:16.767 [info] update#setState checking for updates
+2024-04-04 06:17:17.147 [info] update#setState idle
+2024-04-04 07:17:16.769 [info] update#setState checking for updates
+2024-04-04 07:17:17.199 [info] update#setState idle
+2024-04-04 08:17:16.772 [info] update#setState checking for updates
+2024-04-04 08:17:17.138 [info] update#setState idle
+2024-04-04 09:17:16.779 [info] update#setState checking for updates
+2024-04-04 09:17:17.089 [info] update#setState idle
+2024-04-04 10:17:16.782 [info] update#setState checking for updates
+2024-04-04 10:17:17.119 [info] update#setState idle
+2024-04-04 11:17:16.784 [info] update#setState checking for updates
+2024-04-04 11:17:17.111 [info] update#setState idle
+2024-04-04 12:17:16.789 [info] update#setState checking for updates
+2024-04-04 12:17:17.165 [info] update#setState idle
+2024-04-04 13:17:16.795 [info] update#setState checking for updates
+2024-04-04 13:17:17.100 [info] update#setState idle
+2024-04-04 14:17:16.803 [info] update#setState checking for updates
+2024-04-04 14:17:17.094 [info] update#setState idle
+2024-04-04 15:17:16.807 [info] update#setState checking for updates
+2024-04-04 15:17:17.187 [info] update#setState idle
+2024-04-04 16:17:16.812 [info] update#setState checking for updates
+2024-04-04 16:17:17.191 [info] update#setState idle
+2024-04-04 17:17:16.815 [info] update#setState checking for updates
+2024-04-04 17:17:17.241 [info] update#setState idle
+2024-04-04 18:17:16.819 [info] update#setState checking for updates
+2024-04-04 18:17:17.136 [info] update#setState idle
+2024-04-04 19:17:16.823 [info] update#setState checking for updates
+2024-04-04 19:17:17.138 [info] update#setState idle
+2024-04-04 20:17:16.827 [info] update#setState checking for updates
+2024-04-04 20:17:17.172 [info] update#setState idle
+2024-04-04 21:17:16.834 [info] update#setState checking for updates
+2024-04-04 21:17:17.267 [info] update#setState idle
+2024-04-04 22:17:16.837 [info] update#setState checking for updates
+2024-04-04 22:17:17.203 [info] update#setState idle
+2024-04-04 23:17:16.841 [info] update#setState checking for updates
+2024-04-04 23:17:17.228 [info] update#setState idle
+2024-04-05 00:17:16.847 [info] update#setState checking for updates
+2024-04-05 00:17:17.194 [info] update#setState idle
+2024-04-05 01:17:16.852 [info] update#setState checking for updates
+2024-04-05 01:17:17.191 [info] update#setState idle
+2024-04-05 02:17:16.854 [info] update#setState checking for updates
+2024-04-05 02:17:17.273 [info] update#setState available for download

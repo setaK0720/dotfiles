@@ -1,0 +1,17 @@
+{
+  "ddc-around": { "branch": "main", "commit": "fff06e9eed4c68a0ef0892d41e108c81edd5268c" },
+  "ddc-converter_remove_overlap": { "branch": "main", "commit": "e94330b06c47f63a46ce705927bb4deaff611c21" },
+  "ddc-file": { "branch": "main", "commit": "72335138349133361e38fe7a0d320a3ff1788839" },
+  "ddc-matcher_head": { "branch": "main", "commit": "17b656e38221743290bd0cd26f5b177efe318d77" },
+  "ddc-sorter_rank": { "branch": "main", "commit": "8b51a0690d030bc22777549c3944012d42fa02a3" },
+  "ddc-source-around": { "branch": "main", "commit": "fff06e9eed4c68a0ef0892d41e108c81edd5268c" },
+  "ddc.vim": { "branch": "main", "commit": "c77edc1d611857790ab22043d04c8f7a64d94558" },
+  "denops.vim": { "branch": "main", "commit": "2d1165247bab9e30c8e9ea0177cbaa84418f073c" },
+  "lazy.nvim": { "branch": "main", "commit": "31ddbea7c10b6920c9077b66c97951ca8682d5c8" },
+  "nvim-autopairs": { "branch": "master", "commit": "4f41e5940bc0443fdbe5f995e2a596847215cd2a" },
+  "nvim-web-devicons": { "branch": "master", "commit": "6e355632387a085f15a66ad68cf681c1d7374a04" },
+  "oil.nvim": { "branch": "master", "commit": "e462a3446505185adf063566f5007771b69027a1" },
+  "pum.vim": { "branch": "main", "commit": "2ee3ea50ba8bf8505c092a9750ea824702c5fe9a" },
+  "vim-lsp": { "branch": "master", "commit": "f7ccf006df1aefd327c0e2c55cc8632a2db577c1" },
+  "vim-lsp-settings": { "branch": "master", "commit": "eaaec7e60d2d53f68bb3ea49d565cc50de3956fc" }
+}
