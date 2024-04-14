@@ -3,8 +3,6 @@ PROMPT="%F{green}%n%f %~ %# " #プロンプトの表示
 export PATH="$PATH:/opt/nvim" # neovimにパスを通す
 export PYENV_ROOT="$HOME/.pyenv" # pyenvのパスを通す
 export PATH=$HOME/.nodebrew/current/bin:$PATH # nodebrewのパスを通す
-export DENO_INSTALL="/home/rimoto/.deno" # denoのパスを通す
-export PATH="$DENO_INSTALL/bin:$PATH"
 
 
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)" 
