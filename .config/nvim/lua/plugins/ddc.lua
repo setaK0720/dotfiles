@@ -1,6 +1,7 @@
 -- ddc.vim 補完用プラグイン
 local h = require("util.helper")
 local fn = vim.fn
+local keymap = vim.keymap
 
 return {
 	{
@@ -12,7 +13,7 @@ return {
 			"Shougo/ddc-ui-pum",
 			"Shougo/ddc-source-around",
 			"Shougo/ddc-filter-matcher_head",
-      			"Shougo/ddc-filter-sorter_rank",
+      "Shougo/ddc-filter-sorter_rank",
 			"Shougo/ddc-source-lsp",
 			"LumaKernel/ddc-source-file",
 		},
@@ -54,7 +55,27 @@ return {
 
         -- Insert
         local opts = { silent = true, noremap = true}
-        h.imap("<C-n>", "<cmd>call pum#map#select_relative(+1)<CR>", opts)
+        keymap.set('i', '<Tab>', function() -- <Tab>で候補を1つ下に移動
+          if(fn['pum#visible']()) then
+            return '<cmd>call pum#map#insert_relative(+1)<CR>'
+          else
+            if(fn.col('.') or fn.getline('.')[fn.col('.') - 2] ~= [[\s]]) then
+              return '<TAB>'
+            else
+              fn['ddc#manual_complete']()
+            end
+          end
+        end, {silent=true, expr=true}
+          )
+
+        keymap.set('i', '<Enter>', function()
+          if(fn['pum#visible']() == 1) then
+            return '<Cmd>call pum#map#confirm()<CR>'
+          else
+            return '<Enter>'
+          end
+        end, {silent=true, expr=true}
+        )
         h.imap("<C-p>", "<cmd>call pum#map#select_relative(-1)<CR>", opts)
         h.imap("<C-y>", "<cmd>call pum#map#confirm()<CR>", opts)
         h.imap("<C-e>", "<cmd>call pum#map#cancel()<CR>", opts)

@@ -1,0 +1,13 @@
+[Unit]
+Description=Homebrew generated unit for postgresql@14
+
+[Install]
+WantedBy=default.target
+
+[Service]
+Type=simple
+ExecStart=/home/linuxbrew/.linuxbrew/opt/postgresql@14/bin/postgres -D /home/linuxbrew/.linuxbrew/var/postgresql@14
+Restart=always
+WorkingDirectory=/home/linuxbrew/.linuxbrew
+StandardOutput=append:/home/linuxbrew/.linuxbrew/var/log/postgresql@14.log
+StandardError=append:/home/linuxbrew/.linuxbrew/var/log/postgresql@14.log

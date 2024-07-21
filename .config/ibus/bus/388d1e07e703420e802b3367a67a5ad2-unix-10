@@ -3,5 +3,5 @@
 # ibus session bus with the below address.
 # If the IBUS_ADDRESS environment variable is set, it will
 # be used rather than this file.
-IBUS_ADDRESS=unix:abstract=/home/rimoto/.cache/ibus/dbus-Gs0Hw516,guid=67175a62e0ee81a6c35e72c765fac125
-IBUS_DAEMON_PID=1698
+IBUS_ADDRESS=unix:abstract=/home/rimoto/.cache/ibus/dbus-iqnNigHt,guid=db790c138e42b554392d604b6669a824
+IBUS_DAEMON_PID=1999
